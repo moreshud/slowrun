@@ -77,6 +77,7 @@ The tiny track caps runs at a single 8xH100 node for at most 15 minutes.
 11 | 3.329 | Add learnable XSA | 06/07/26 | 14.7 mins | [Script](https://github.com/qlabs-eng/slowrun/blob/bcf188f2912479ad76e17b6589d69bed882fe525/tiny/train.py) | [@LucaCerovaz](https://x.com/LucaCerovaz)
 12 | 3.324 | Add 2x recurrence | 06/07/26 | 14.9 mins | [Script](https://github.com/qlabs-eng/slowrun/blob/a2c443e18f99d0f6e35c6013c752e636fe402213/tiny/train.py) | [@neel04](https://x.com/awesome_ruler_)
 13 | 3.315 | Add fp8 MTP + full-layer XSA | 06/08/26 | 13.9 mins | [Script](https://github.com/qlabs-eng/slowrun/blob/9732ac294aba594a1fbb3aff1bb93cfdf2ce6788/tiny/train.py) | [@Mister-dev-oss](https://github.com/Mister-dev-oss)
+14 | 3.307 | Merge 2x recurrence with latest changes | 06/14/26 | 14.1 mins | [Script](https://github.com/qlabs-eng/slowrun/blob/d1fbdb76386347f1097ed051f4bebaef2c17758d/tiny/train.py) | [@neel04](https://x.com/awesome_ruler_)
 
 
 
